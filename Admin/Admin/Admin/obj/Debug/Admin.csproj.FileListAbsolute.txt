@@ -1,0 +1,52 @@
+C:\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe.config
+D:\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe.config
+D:\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe
+D:\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.pdb
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Login.resources
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.exe
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.pdb
+D:\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\MySql.Data.dll
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.attendance.resources
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.CopyComplete
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.CreateAccount.resources
+D:\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.AdminDashboard.resources
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.pdb
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.AdminDashboard.resources
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.CreateAccount.resources
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.attendance.resources
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Login.resources
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.exe
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Acer\Desktop\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Records.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.exe
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Admin.pdb
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.AdminDashboard.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.CreateAccount.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.attendance.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Login.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.Records.resources
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.exe
+C:\Users\Acer\Documents\THIRD YEAR SYSTEM\SIRDUGARIA\SIRDUGARIA\Admin\Admin\Admin\obj\Debug\Admin.pdb
